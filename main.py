@@ -5,7 +5,8 @@ def strom_berechnen(leistung, spannung):
 # Funktion 2
 def spannungsfall(strom, widerstand):
     # Todo
-    pass
+    # Spannungsfall = Strom * Widerstand
+    return strom * widerstand
 
 # Funktion 3
 def verlustleistung(strom, widerstand):
