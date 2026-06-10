@@ -1,15 +1,20 @@
 # Funktion 1
 def strom_berechnen(leistung, spannung):
     # TODO
-
+    pass
 # Funktion 2
 def spannungsfall(strom, widerstand):
     # Todo
+    pass
 
 # Funktion 3
 def verlustleistung(strom, widerstand):
     # TODO
-
+    pass
+# Funktion 3
+def verlustleistung(strom, widerstand):
+    # TODO
+    pass
 
 leistung = 2000   # Watt
 spannung = 230    # Volt
