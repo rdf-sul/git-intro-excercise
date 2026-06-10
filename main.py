@@ -14,7 +14,7 @@ def verlustleistung(strom, widerstand):
 # Funktion 3
 def verlustleistung(strom, widerstand):
     # TODO
-    pass
+    pass # Dies ist eine Pass Anweisung
 
 leistung = 2000   # Watt
 spannung = 230    # Volt
